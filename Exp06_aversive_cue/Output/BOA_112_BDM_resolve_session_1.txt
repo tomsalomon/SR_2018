@@ -1,0 +1,1 @@
+You do not recieve item Keifli.bmp. Random number 8 is higher than your bid 3.355556e+00

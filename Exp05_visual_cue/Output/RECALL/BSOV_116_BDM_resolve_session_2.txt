@@ -1,0 +1,1 @@
+You do not recieve item HappyHippo.bmp. Random number 9 is higher than your bid 2.822222e+00

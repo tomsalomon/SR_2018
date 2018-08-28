@@ -1,0 +1,1 @@
+You do not recieve item Tapuchips.bmp. Random number 2 is higher than your bid 5.777778e-01

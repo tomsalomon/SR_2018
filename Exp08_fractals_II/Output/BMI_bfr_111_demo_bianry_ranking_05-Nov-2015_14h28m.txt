@@ -1,0 +1,9 @@
+subjectID	runtrial	onsettime	ImageLeft	ImageRight	StimNumLeft	StimNumRight	Response	Outcome	RT
+BMI_bfr_111	1	5.164813e-01	004.jpg	006.jpg	4	6	x	999	999000
+BMI_bfr_111	2	4.020598e+00	002.jpg	005.jpg	2	5	u	0	9.845937e+02
+BMI_bfr_111	3	7.524552e+00	001.jpg	003.jpg	1	3	i	0	5.046494e+02
+BMI_bfr_111	4	1.102846e+01	007.jpg	008.jpg	7	8	u	0	7.687379e+02
+BMI_bfr_111	5	1.451542e+01	001.jpg	008.jpg	1	8	i	0	7.777817e+02
+BMI_bfr_111	6	1.801960e+01	007.jpg	004.jpg	7	4	i	0	1.105584e+03
+BMI_bfr_111	7	2.152359e+01	003.jpg	005.jpg	3	5	u	0	8.176120e+02
+BMI_bfr_111	8	2.502749e+01	006.jpg	002.jpg	6	2	u	0	1.017717e+03

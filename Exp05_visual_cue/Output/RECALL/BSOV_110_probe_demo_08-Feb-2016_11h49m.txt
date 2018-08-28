@@ -1,0 +1,5 @@
+subjectID	scanner	order	runtrial	onsettime	ImageLeft	ImageRight	TypeLeft	TypeRight	IsleftGo	Response	PairType	Outcome	RT
+BSOV_110	 0	 2	 1	 0	 Cheezits.bmp	 Lindt_small.bmp	 1	 5	 0	 u	 1	 0	 998.43	 
+BSOV_110	 0	 2	 2	 10	 Granolabar.bmp	 Lollipopred.bmp	 2	 6	 0	 i	 1	 1	 1259.72	 
+BSOV_110	 0	 2	 3	 13	 Hersheykisses.bmp	 Milano.bmp	 3	 7	 1	 u	 1	 1	 1448.45	 
+BSOV_110	 0	 2	 4	 16	 Laffytaffyred_one.bmp	 RitzBitz2.bmp	 4	 8	 1	 x	 1	 999	 999000.00	 

@@ -1,0 +1,2 @@
+training demo crashed:	 0
+training crashed:	 1

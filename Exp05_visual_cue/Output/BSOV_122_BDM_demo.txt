@@ -1,0 +1,6 @@
+StimName	Bid
+Hersheykisses	3.86666666667
+Cheezits	4.28888888889
+RitzBitz2	6.46666666667
+Granolabar	4.28888888889
+Lindt_small	8.08888888889

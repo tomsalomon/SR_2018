@@ -1,0 +1,5 @@
+subjectID	scanner	order	runtrial	onsettime	ImageLeft	ImageRight	TypeLeft	TypeRight	IsleftGo	Response	PairType	Outcome	RT
+BOA_108	 0	 2	 1	 0	 Cheezits.bmp	 Lindt_small.bmp	 1	 5	 1	 x	 1	 999	 999000.00	 
+BOA_108	 0	 2	 2	 10	 Granolabar.bmp	 Lollipopred.bmp	 2	 6	 0	 i	 1	 1	 905.50	 
+BOA_108	 0	 2	 3	 13	 Hersheykisses.bmp	 Milano.bmp	 3	 7	 0	 u	 1	 0	 1414.13	 
+BOA_108	 0	 2	 4	 16	 Laffytaffyred_one.bmp	 RitzBitz2.bmp	 4	 8	 1	 i	 1	 0	 1386.80	 

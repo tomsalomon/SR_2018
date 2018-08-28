@@ -1,0 +1,1 @@
+subjectID	 order	 runNum	 itemName	 onsetTime	 shuff_trialType	 RT	 respInTime	 CueTime	 response	 fixationTime	 ladder1	 ladder2	 bidIndex	 itemNameIndex	 bidValue	 

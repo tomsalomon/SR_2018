@@ -1,0 +1,5 @@
+subjectID	 scanner	 order	 runtrial	 onsettime	 ImageLeft	 ImageRight	 TypeLeft	 TypeRight	 IsleftGo	 Response	 PairType	 Outcome	 RT 
+p_129	 0	 1	 1	 0	 6311.jpg	 9470.jpg	 1	 5	 0	 u	 1	 0	 1086.47 
+p_129	 0	 1	 2	 10	 8230.jpg	 9471.jpg	 2	 6	 0	 i	 1	 1	 1220.52 
+p_129	 0	 1	 3	 13	 9331.jpg	 9520.jpg	 3	 7	 1	 u	 1	 1	 1015.97 
+p_129	 0	 1	 4	 16	 9417.jpg	 9560.jpg	 4	 8	 1	 u	 1	 1	 1019.38 

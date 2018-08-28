@@ -1,0 +1,1 @@
+You do not recieve item Egozi.bmp. Random number 2.500000e+00 is higher than your bid 1.666667e+00

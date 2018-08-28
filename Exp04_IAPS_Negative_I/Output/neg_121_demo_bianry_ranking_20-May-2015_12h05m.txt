@@ -1,0 +1,5 @@
+subjid	 runtrial	 onsettime	 ImageLeft	 ImageRight	 StimNumLeft	 StimNumRight	 Response	 Outcome	 RT
+neg_121	 1	 5.202885e-01	 9471.jpg	 9520.jpg	 6	 7	 i	 0	 2.023844e+03
+neg_121	 2	 4.018910e+00	 9417.jpg	 9470.jpg	 4	 5	 u	 0	 2.173167e+03
+neg_121	 3	 7.517528e+00	 8230.jpg	 9331.jpg	 2	 3	 i	 0	 1.378535e+03
+neg_121	 4	 1.101615e+01	 9560.jpg	 6311.jpg	 8	 1	 u	 0	 1.351871e+03

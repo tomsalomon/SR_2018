@@ -1,0 +1,1 @@
+You do not recieve item DoritosNatural.bmp. Random number 6 is higher than your bid 4.444444e+00

@@ -1,0 +1,5 @@
+subjectID	 scanner	 order	 runtrial	 onsettime	 ImageLeft	 ImageRight	 TypeLeft	 TypeRight	 IsleftGo	 Response	 PairType	 Outcome	 RT 
+BMI_bfr_126	 0	 2	 1	 0	 001.jpg	 005.jpg	 1	 5	 0	 x	 1	 999	 999000.00 
+BMI_bfr_126	 0	 2	 2	 10	 002.jpg	 006.jpg	 2	 6	 1	 i	 1	 0	 880.88 
+BMI_bfr_126	 0	 2	 3	 13	 003.jpg	 007.jpg	 3	 7	 0	 u	 1	 0	 768.63 
+BMI_bfr_126	 0	 2	 4	 16	 004.jpg	 008.jpg	 4	 8	 1	 i	 1	 0	 510.37 

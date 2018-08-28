@@ -1,0 +1,31 @@
+e1=std(Ladders1AllSubs)/sqrt(55)
+e2=std(Ladders2AllSubs)/sqrt(55)
+boundedline(1:96,mean(Ladders1AllSubs),e1,'b','alpha')
+boundedline(1:96,mean(Ladders1AllSubs),e1,'r','alpha')
+boundedline(1:96,mean(Ladders2AllSubs),e2,'b','alpha')
+xlabel ('trials')
+help xlabel
+label
+xlabel ('trials','size',20)
+xlabel ('trials','size','20')
+xlabel ('trials','fontsize',20)
+ylabel ('Stop Signal Delay', 'fontsize',20)
+help legend
+legend('high','low')
+legend
+legend(off)
+legend('off')
+legend(y)
+legend('y')
+legend('high')
+legend('Low')
+legend('High','r')
+legend('off')
+legend('Low')
+hold on
+boundedline(1:96,mean(Ladders1AllSubs),e1,'r','alpha')
+legend('High')
+legend('off')
+xlabel ('Trials', 'fontsize', 24)
+ylabel ('Stop-Signal-Delay', 'fontsize', 24)
+ylabel ('Stop Signal Delay', 'fontsize', 24)

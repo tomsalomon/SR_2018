@@ -1,0 +1,9 @@
+subjectID	runNum	itemname	onsettime	trialtype	RT	respInTime	CueTime	response	fixationtime	ladder1	ladder2
+BSOV_119	 1	 Cheezits.bmp	 1.139628e+00	 24	 999000	 240	 999000	 999	 2.16	 750	 750	 
+BSOV_119	 1	 Granolabar.bmp	 6.145557e+00	 24	 999000	 240	 999000	 999	 7.16	 750	 750	 
+BSOV_119	 1	 Hersheykisses.bmp	 8.147608e+00	 12	 999000	 120	 999000	 999	 9.17	 750	 750	 
+BSOV_119	 1	 Laffytaffyred_one.bmp	 1.014984e+01	 22	 999000	 2	 7.508564e+02	 999	 11.17	 750	 700	 
+BSOV_119	 1	 Lindt_small.bmp	 1.613983e+01	 12	 999000	 120	 999000	 999	 17.16	 750	 700	 
+BSOV_119	 1	 Lollipopred.bmp	 1.814208e+01	 24	 999000	 240	 999000	 999	 19.16	 750	 700	 
+BSOV_119	 1	 Milano.bmp	 2.114554e+01	 24	 999000	 240	 999000	 999	 22.16	 750	 700	 
+BSOV_119	 1	 RitzBitz2.bmp	 2.314777e+01	 11	 1.199556e+03	 1100	 7.508503e+02	 98	 24.17	 700	 700	 

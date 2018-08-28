@@ -1,0 +1,9 @@
+subjectID	runNum	itemname	onsettime	trialtype	RT	respInTime	Audiotime	response	fixationtime	ladder1	ladder2
+BOA_134	 1	 Cheezits.bmp	 1.168208e+00	 24	 999000	 240	 999000	 999	 2.19	 750	 750	 
+BOA_134	 1	 Granolabar.bmp	 4.154531e+00	 24	 999000	 240	 999000	 999	 5.17	 750	 750	 
+BOA_134	 1	 Hersheykisses.bmp	 6.156754e+00	 12	 999000	 120	 999000	 999	 7.17	 750	 750	 
+BOA_134	 1	 Laffytaffyred_one.bmp	 8.142048e+00	 22	 1.383439e+03	 2200	 7.508396e+02	 98	 9.16	 750	 700	 
+BOA_134	 1	 Lindt_small.bmp	 1.014458e+01	 12	 999000	 120	 999000	 999	 11.16	 750	 700	 
+BOA_134	 1	 Lollipopred.bmp	 1.314788e+01	 24	 999000	 240	 999000	 999	 14.17	 750	 700	 
+BOA_134	 1	 Milano.bmp	 1.515011e+01	 24	 999000	 240	 999000	 999	 16.17	 750	 700	 
+BOA_134	 1	 RitzBitz2.bmp	 1.915457e+01	 11	 1.122910e+03	 1100	 7.515574e+02	 98	 20.17	 700	 700	 

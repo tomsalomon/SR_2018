@@ -1,0 +1,1 @@
+subjectID	 order	 stimName	 itemIndABC	 bidInd	 runtrial	 isOld?	 subjectAnswerIsOld	 isBeep?	 subjectAnswerIsBeep	 onsettime	 resp_choice	 RT

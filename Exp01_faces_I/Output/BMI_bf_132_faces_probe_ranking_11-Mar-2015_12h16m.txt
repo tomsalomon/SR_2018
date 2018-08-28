@@ -1,0 +1,6 @@
+subjid	 runtrial	 onsettime	 ImageLeft	 ImageRight	 StimNumLeft	 StimNumRight	 Response	 Outcome	 RT
+BMI_bf_132	 1	 5.329771e-01	 023.tif	 109.tif	 23	 39	 x	 999	 999000
+BMI_bf_132	 2	 4.032988e+00	 109.tif	 114.tif	 39	 44	 x	 999	 999000
+BMI_bf_132	 3	 7.516208e+00	 022.tif	 111.tif	 22	 41	 x	 999	 999000
+BMI_bf_132	 4	 1.103300e+01	 125.tif	 011.tif	 55	 11	 x	 999	 999000
+BMI_bf_132	 5	 1.451631e+01	 116.tif	 015.tif	 46	 15	 x	 999	 999000

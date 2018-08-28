@@ -1,0 +1,2 @@
+subjectID	 order	 runNum	 itemName	 onsetTime	 shuff_trialType	 RT	 respInTime	 AudioTime	 response	 fixationTime	 ladder1	 ladder2	 bidIndex	 itemNameIndex	 bidValue	 
+BMI_bf_9999	 1	 3	 008.tif	 3.786151e+02	 24	 999000	 240	 999000	 999	 3.796599e+02	 350.00	 350.00	 60.00	 8	 0.00	 
